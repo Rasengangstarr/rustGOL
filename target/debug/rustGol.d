@@ -1,1 +1,1 @@
-/home/david/Rust/rustGol/rustGol/target/debug/rustGol: /home/david/Rust/rustGol/rustGol/src/main.rs
+/home/david/Rust/rustGol/rustGol/rustGOL/target/debug/rustGol: /home/david/Rust/rustGol/rustGol/rustGOL/src/main.rs
